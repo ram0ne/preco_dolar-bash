@@ -1,4 +1,4 @@
-# preco_dolar-bash
+# web-scaraping_dolar-bash
 Ver valor do dolar hoje na moeda real e armazenar no .txt
 PRIMEIRO WEB SCRAPING EM BASH
 
